@@ -54,14 +54,14 @@ QR_Decomposition(a)
 ```
 
 ## Output
-```
+
 
 ![mathaiexp8i](https://github.com/Mohammed-Saajid/QRdecomposition/assets/141727149/5b3d7f2e-6d2f-4ef7-ad3d-2eda5f14abc6)
 
 ![mathaiexp8ii](https://github.com/Mohammed-Saajid/QRdecomposition/assets/141727149/20930820-4333-44ec-bc3e-d3cb868a866a)
 
 
-```
+
 
 ## Result
 
